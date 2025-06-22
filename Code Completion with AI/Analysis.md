@@ -1,0 +1,7 @@
+GitHub Copilot provided a fast and accurate suggestion for sorting a list of dictionaries by a specified key. After I defined the sample dataset and referenced the function call, Copilot instantly proposed a full function definition using Python’s sorted() method and a lambda expression.
+
+The suggested code was concise, readable, and met the task requirements exactly. It used direct key access (x[key]), which is efficient when we’re confident the key exists in every dictionary. Compared to manually writing the function, Copilot saved time and minimized the chance of syntax errors.
+
+What stood out was how quickly Copilot understood the context based on minimal input — it recognized the pattern and completed both the function and example usage without further prompting. While the suggestion didn’t include advanced error handling (e.g., using dict.get()), it was sufficient for this well-structured dataset.
+
+In terms of efficiency and readability, the AI-suggested code matches what I would have written manually, but it was delivered faster. This highlights how Copilot can enhance productivity, especially for routine coding tasks, by providing reliable scaffolding that developers can then refine as needed.
